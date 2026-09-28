@@ -7,6 +7,6 @@ public:
         vector<int> dp(nums.begin(),nums.end());
         dp.push_back(0);
         for(int i=n-3;i>=0;i--) dp[i]=nums[i]+max(dp[i+2],dp[i+3]);
-        return *max_element(dp.begin(),dp.end());
+        return max(dp[0],dp[1]);
     }
 };
