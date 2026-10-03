@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aravind-7-77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Aravind-7-77/Leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Aravind-7-77/Leetcode/tree/master/0198-house-robber) |
@@ -47,10 +48,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aravind-7-77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aravind-7-77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 ## Algorithm X
 |  |
