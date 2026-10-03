@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Aravind-7-77/Leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Aravind-7-77/Leetcode/tree/master/0198-house-robber) |
 | [0860-lemonade-change](https://github.com/Aravind-7-77/Leetcode/tree/master/0860-lemonade-change) |
@@ -37,9 +38,26 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aravind-7-77/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Aravind-7-77/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aravind-7-77/Leetcode/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
