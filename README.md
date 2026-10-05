@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aravind-7-77/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Aravind-7-77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Aravind-7-77/Leetcode/tree/master/0078-subsets) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aravind-7-77/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Aravind-7-77/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aravind-7-77/Leetcode/tree/master/0037-sudoku-solver) |
 ## Matrix
